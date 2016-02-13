@@ -1,6 +1,6 @@
 {
   "name": "Taskwarrior Widget",
-  "description": "Displays the list of pending task in Taskwarrior",
+  "description": "Displays the list of pending tasks from Taskwarrior",
   "author": "Kevin Bockelandt",
   "email": "kevin.bockelandt@gmail.com"
 }
